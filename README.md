@@ -1,73 +1,41 @@
-# AdventureWorks Analytics Dashboards
+📊 AdventureWorks Analytics Dashboards
 
-This repository contains two fully interactive Excel dashboards created using Pivot Tables, Pivot Charts, and Slicers, built to analyze sales, product, customer, and time-series performance for the AdventureWorks dataset.
+This repository showcases two dynamic and fully interactive Excel dashboards built using Pivot Tables, Pivot Charts, Slicers, and custom formatting. These dashboards highlight key insights across sales performance, products, customers, and time-based metrics using the AdventureWorks dataset.
 
-📊 Dashboard Overview
-1. Sales Analysis Dashboard
-This dashboard provides a complete overview of company performance, including:
-Order quantity
+📌 DASHBOARD 1: Sales Analysis
+- ✅ Key business metrics: Order Quantity, COGS, Total Revenue, Total Profit, Profit Margin, Transactions
+- 📈 Year-wise revenue comparison
+- 📅 Weekday vs Weekend profit contribution
+- 🔄 Quarterly profit breakdown
+- 📊 Monthly sales trend line chart
+- 🌍 Country-based filtering for deeper insights
 
-COGS
-Total revenue
+📌 DASHBOARD 2: Product & Customer Analysis
+- ⭐ Top 5 profitable products with visual profit comparison
+- 📦 Available, Sold, and Unsold product summary
+- 👥 Top 5 profitable customers + profit share distribution
+- 🎯 Profit by Gender (Male vs Female)
+- 🎨 Profit by Color (Black, Silver, Red, Yellow, etc.)
+- 💰 Pricing segmentation: Expensive vs Less Expensive
+- 📆 Age-wise profit contribution visualization
 
-Total profit
+💡 FEATURES
+- ✅ 100% Excel-based (No VBA required)
+- 🎛 Interactive slicers for instant filtering
+- 🧩 Smart use of Pivot Tables & Pivot Charts
+- 🎨 Clean UI layout with icons and custom formatting
+- 🔄 Easy to update when new data is available
 
-Profit margin
+🛠 TOOLS USED
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Layout Design
 
-Number of transactions
-
-Year-to-year comparison
-
-Weekly/weekday profit distribution
-
-Quarterly profit breakdown
-
-Country-based filtering
-
-
-2. Product & Customer Analysis Dashboard
-
-This dashboard highlights key business insights such as:
-
-Top 5 profitable products
-
-Profit share comparison (Top 5 vs Others)
-
-Product availability and sold/unsold product distribution
-
-Top 5 profitable customers
-
-Customer demographics (age and gender)
-
-Profit by color
-
-Pricing segmentation (expensive vs less expensive products)
-
-Time-series insights
-
-
-✅ Features
-
-100% Excel-based.
-
-Built using Pivot Tables, Pivot Charts, and Slicers
-
-Fully interactive filters (Year, country, product category, price segment, etc.)
-
-Clean and professional visualization layout
-
-Easy to extend with additional data
-
-🛠 Tools Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Pivot Charts
-
-Slicers
-
-Conditional formatting
-
-Custom shaps, icons, and dashboard layout formatting
+🎯 PURPOSE
+- Business intelligence reporting
+- Excel dashboard practice
+- Portfolio showcase
+- Data visualization demonstration
